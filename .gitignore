@@ -11,4 +11,4 @@ frontend/.env
 .DS_Store
 Thumbs.db
 
-CLAUDE.md
+/CLAUDE.md
