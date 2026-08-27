@@ -1,0 +1,12 @@
+# backend
+backend/.env
+backend/saas-project
+
+# frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# OS
+.DS_Store
+Thumbs.db
